@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 //Below is Alternative of Styled-Components
 // import styled from 'styled-components';
 
